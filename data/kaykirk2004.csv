@@ -13,9 +13,9 @@ Cacajao_melanocephalus,Anthropoid,91.8,6.9,372.1,Diurnal,0
 Callicebus_moloch,Anthropoid,59.7,3.5,163.9,Diurnal,0
 Callicebus_torquatus,Anthropoid,65.8,3.8,192,Diurnal,0
 Callimico_goeldii,Anthropoid,52.3,3.9,121.2,Diurnal,0
-Mico_argentatus,Anthropoid,45.2,2.8,77.3,Diurnal,0
+Callithrix_argentata,Anthropoid,45.2,2.8,77.3,Diurnal,0
 Callithrix_jacchus,Anthropoid,43.7,3.2,72.4,Diurnal,0
-Cebuella_pygmaea,Anthropoid,34.1,2.1,56.3,Diurnal,0
+Callithrix_pygmaea,Anthropoid,34.1,2.1,56.3,Diurnal,0
 Cebus_albifrons,Anthropoid,87.5,7.5,328.7,Diurnal,0
 Cebus_capucinus,Anthropoid,95.1,7.8,337,Diurnal,0
 Cercopithecus_cephus,Anthropoid,95.9,9.3,344,Diurnal,0
@@ -79,7 +79,7 @@ Propithecus_diadema,Prosimian,89.4,4.3,392.5,Diurnal,0
 Propithecus_verreauxi,Prosimian,81.3,3.4,302.9,Diurnal,0
 Pygathrix_nemaeus,Anthropoid,109.2,8,491.7,Diurnal,0
 Rhinopithecus_roxellana,Anthropoid,113.2,9.4,454,Diurnal,0
-Leontocebus_fuscicollis,Anthropoid,45.2,3,80.2,Diurnal,0
+Saguinus_fuscicollis,Anthropoid,45.2,3,80.2,Diurnal,0
 Saguinus_leucopus,Anthropoid,47.8,3.2,78.4,Diurnal,0
 Saguinus_midas,Anthropoid,49.4,3.6,77.3,Diurnal,0
 Saimiri_oerstedii,Anthropoid,61.1,5.4,166.5,Diurnal,0
